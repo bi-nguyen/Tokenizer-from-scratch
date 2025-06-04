@@ -11,7 +11,7 @@ I'll explain this algorithm step by step, following the table of contents bellow
 The codebase is organized as follows:
 
 ```bash
-minbpe/
+Tokenizer-from-scratch/
 ├── bpe  
     └── base.py # tokenizer base class
     └── naive_tokenizer.py # Tokenizer in a simple way
